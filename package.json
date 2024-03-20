@@ -1,0 +1,29 @@
+{
+  "name": "gleaming-galaxy-grids",
+  "version": "1.0.0",
+  "description": "A lightweight library for dynamic, responsive grid layouts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/altoscope/gleaming-galaxy-grids"
+  },
+  "keywords": [
+    "grid",
+    "layout",
+    "responsive",
+    "css-grid",
+    "flexbox"
+  ],
+  "author": "Anatoliy Volkov",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "postcss": "^8.2.10",
+    "autoprefixer": "^10.2.5",
+    "cssnano": "^5.0.6",
+    "sass": "^1.32.8"
+  }
+}
